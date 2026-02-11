@@ -6,6 +6,9 @@ A native iOS health and wellness tracking application that helps users monitor p
 ![Swift](https://img.shields.io/badge/Swift-5-orange.svg)
 ![Firebase](https://img.shields.io/badge/Backend-Firebase-yellow.svg)
 
+<img width="1088" height="478" alt="image" src="https://github.com/user-attachments/assets/9ca1986c-20e5-4c0a-8ffa-b627101cae1e" />
+
+
 ## Features
 
 ### Health Tracking
@@ -76,8 +79,3 @@ Kare/
 ├── Models/            # Data models and Firebase utilities
 └── Assets.xcassets/   # Images, icons, and colors
 ```
-
-## Screenshots
-
-*Coming soon*
-
