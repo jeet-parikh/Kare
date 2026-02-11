@@ -6,18 +6,30 @@ xcuserdata/
 *.mode1v3
 *.mode2v3
 *.perspectivev3
+*.xccheckout
+*.xcscmblueprint
+*.moved-aside
 
 # macOS
 .DS_Store
+.AppleDouble
+.LSOverride
+._*
 
 # CocoaPods
 Pods/
 
 # Swift Package Manager
 .build/
+.swiftpm/
 
 # Logs
 *.log
 
 # Environment / secrets
 *.env
+
+# IDE
+.idea/
+*.swp
+*~
