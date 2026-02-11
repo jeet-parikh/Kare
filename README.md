@@ -1,4 +1,4 @@
-# ProKare
+# Kare
 
 A native iOS health and wellness tracking application that helps users monitor personal health metrics, visualize trends, and share progress with friends for accountability.
 
@@ -77,50 +77,7 @@ Kare/
 └── Assets.xcassets/   # Images, icons, and colors
 ```
 
-## Getting Started
-
-### Prerequisites
-- Xcode 12.0+
-- iOS 13.0+ device or simulator
-- CocoaPods installed
-
-### Installation
-
-1. Clone the repository
-   ```bash
-   git clone https://github.com/yourusername/ProKare.git
-   cd ProKare
-   ```
-
-2. Install dependencies
-   ```bash
-   pod install
-   ```
-
-3. Configure Firebase
-   - Create a new Firebase project at [Firebase Console](https://console.firebase.google.com)
-   - Add an iOS app with bundle ID `com.parikhbros.ProKare`
-   - Download `GoogleService-Info.plist` and replace the existing one
-   - Enable Authentication (Email/Password and Google)
-   - Create a Firestore database
-   - Set up Cloud Storage
-
-4. Open the workspace
-   ```bash
-   open ProKare.xcworkspace
-   ```
-
-5. Build and run on your device or simulator
-
 ## Screenshots
 
 *Coming soon*
 
-## License
-
-This project is available for portfolio demonstration purposes.
-
-## Authors
-
-- **Jeet Parikh**
-- **Niraj Parikh**
